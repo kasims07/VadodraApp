@@ -5,6 +5,9 @@
       <map>
         <entry key="..\:/Android/VadodaraApp/app/src/main/res/drawable/custom_border.xml" value="0.26614583333333336" />
         <entry key="..\:/Android/VadodaraApp/app/src/main/res/drawable/custom_button.xml" value="0.26614583333333336" />
+        <entry key="..\:/Android/VadodaraApp/app/src/main/res/drawable/ic__calander.xml" value="0.2" />
+        <entry key="..\:/Android/VadodaraApp/app/src/main/res/drawable/ic__clock.xml" value="0.2" />
+        <entry key="..\:/Android/VadodaraApp/app/src/main/res/layout/activity_date_and_time.xml" value="0.25" />
         <entry key="..\:/Android/VadodaraApp/app/src/main/res/layout/activity_home.xml" value="0.2" />
         <entry key="..\:/Android/VadodaraApp/app/src/main/res/layout/activity_main.xml" value="0.1802536231884058" />
         <entry key="..\:/Android/VadodaraApp/app/src/main/res/layout/activity_spinner.xml" value="0.25" />

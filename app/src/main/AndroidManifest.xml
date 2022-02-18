@@ -10,13 +10,17 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.VadodaraApp">
         <activity
-            android:name=".SpinnerListActivity"
-            android:exported="true" >
+            android:name=".DateAndTime"
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity
+            android:name=".SpinnerListActivity"
+            android:exported="true">
 
         </activity>
         <activity
@@ -24,9 +28,7 @@
             android:exported="false" />
         <activity
             android:name=".MainActivity"
-            android:exported="false">
-
-        </activity>
+            android:exported="false" />
     </application>
 
 </manifest>
