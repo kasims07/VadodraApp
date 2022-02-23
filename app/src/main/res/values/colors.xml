@@ -10,10 +10,22 @@
     <color name="green">#78C67B</color>
     <color name="gray">#9AA19A</color>
     <color name="gray2">#353735</color>
-    <color name="gray3">#1F201F</color>
+    <color name="gray3">#383938</color>
+    <color name="tabbackground">#6C6A6A</color>
     <color name="yellow">#E4DD9D</color>
     <color name="yellow2">#DDC912</color>
     <color name="blue">#82B2D8</color>
     <color name="blue2">#1384DD</color>
     <color name="blue3">#084371</color>
+
+
+
+
+    <color name="whatsappicon">#287C2C</color>
+    <color name="whatsapptext">#6A6C6C</color>
+    <color name="whatsappbackgrond">#313033</color>
+
+
+
+
 </resources>
