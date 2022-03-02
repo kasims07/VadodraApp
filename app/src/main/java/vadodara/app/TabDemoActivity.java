@@ -62,7 +62,7 @@ public class TabDemoActivity extends AppCompatActivity {
         public Fragment getItem(int position) {
             switch (position){
                 case 0:
-                    return new ChatsFragment();
+                    return new ChateFragment();
                 case 1:
                     return new StatusFragment();
                 case 2:

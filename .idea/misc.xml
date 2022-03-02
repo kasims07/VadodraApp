@@ -5,22 +5,31 @@
       <map>
         <entry key="..\:/Android/VadodaraApp/app/src/main/res/drawable/custom_border.xml" value="0.26614583333333336" />
         <entry key="..\:/Android/VadodaraApp/app/src/main/res/drawable/custom_button.xml" value="0.26614583333333336" />
+        <entry key="..\:/Android/VadodaraApp/app/src/main/res/drawable/custom_image.xml" value="0.2" />
         <entry key="..\:/Android/VadodaraApp/app/src/main/res/drawable/ic__calander.xml" value="0.2" />
         <entry key="..\:/Android/VadodaraApp/app/src/main/res/drawable/ic__camera.xml" value="0.2" />
         <entry key="..\:/Android/VadodaraApp/app/src/main/res/drawable/ic__clock.xml" value="0.2" />
+        <entry key="..\:/Android/VadodaraApp/app/src/main/res/drawable/ic_arrow_back_24.xml" value="0.189" />
+        <entry key="..\:/Android/VadodaraApp/app/src/main/res/drawable/ic_baseline_arrow.xml" value="0.189" />
         <entry key="..\:/Android/VadodaraApp/app/src/main/res/drawable/ic_whatsapp.xml" value="0.2" />
         <entry key="..\:/Android/VadodaraApp/app/src/main/res/layout/activity_date_and_time.xml" value="0.25" />
+        <entry key="..\:/Android/VadodaraApp/app/src/main/res/layout/activity_dp.xml" value="0.25" />
         <entry key="..\:/Android/VadodaraApp/app/src/main/res/layout/activity_home.xml" value="0.2" />
         <entry key="..\:/Android/VadodaraApp/app/src/main/res/layout/activity_main.xml" value="0.1802536231884058" />
         <entry key="..\:/Android/VadodaraApp/app/src/main/res/layout/activity_spinner.xml" value="0.25" />
         <entry key="..\:/Android/VadodaraApp/app/src/main/res/layout/activity_splash_screen.xml" value="0.27447916666666666" />
         <entry key="..\:/Android/VadodaraApp/app/src/main/res/layout/activity_tab_demo.xml" value="0.27447916666666666" />
         <entry key="..\:/Android/VadodaraApp/app/src/main/res/layout/activity_to_fragment.xml" value="0.27447916666666666" />
+        <entry key="..\:/Android/VadodaraApp/app/src/main/res/layout/activity_user1.xml" value="0.25" />
         <entry key="..\:/Android/VadodaraApp/app/src/main/res/layout/activity_weight.xml" value="0.1" />
+        <entry key="..\:/Android/VadodaraApp/app/src/main/res/layout/coustom_chat.xml" value="0.25" />
         <entry key="..\:/Android/VadodaraApp/app/src/main/res/layout/fragment_call.xml" value="0.27447916666666666" />
+        <entry key="..\:/Android/VadodaraApp/app/src/main/res/layout/fragment_chate.xml" value="0.25" />
         <entry key="..\:/Android/VadodaraApp/app/src/main/res/layout/fragment_chats.xml" value="0.2604166666666667" />
         <entry key="..\:/Android/VadodaraApp/app/src/main/res/layout/fragment_demo.xml" value="0.27447916666666666" />
+        <entry key="..\:/Android/VadodaraApp/app/src/main/res/layout/fragment_dp.xml" value="0.25" />
         <entry key="..\:/Android/VadodaraApp/app/src/main/res/layout/fragment_status.xml" value="0.2604166666666667" />
+        <entry key="..\:/Android/VadodaraApp/app/src/main/res/layout/fragment_test.xml" value="0.25" />
         <entry key="..\:/Android/VadodaraApp/app/src/main/res/layout/test1.xml" value="0.10778985507246377" />
       </map>
     </option>

@@ -3,15 +3,14 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".DemoFragment"
-    android:background="@color/gray">
+    android:background="@color/black"
+    tools:context=".ChateFragment">
 
     <!-- TODO: Update blank fragment layout -->
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="Demo fragment"
-        android:textAlignment="center"
-        android:gravity="center" />
+   <ListView
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       android:id="@+id/chate_list_view"
+       android:divider="@null"/>
 
 </FrameLayout>
